@@ -17,8 +17,10 @@ body {
     max-width: 960px;
     text-align: left;
     background: black;
+    
     margin: auto;
     
+    opacity: 0.5
 }
 
 /* Image */
